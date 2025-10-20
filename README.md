@@ -3,4 +3,4 @@
 ## Subtitlu (pentru secțiuni)
 *Text italic* sau **Text îngroșat**
 - un element de listă
-[Text link](https://adresa.url) (pentru link-uri)
+[https://github.com/RICK-SANKES](https://github.com/RICK-SANKES) (pentru link-uri)
