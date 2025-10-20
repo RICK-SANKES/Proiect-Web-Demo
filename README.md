@@ -1,6 +1,3 @@
-# Proiect-Web-Demo 
-# Titlu Principal (pentru titlul proiectului)
-## Subtitlu (pentru secțiuni)
-*Text italic* sau **Text îngroșat**
-- un element de listă
+**Salut!** 
+# Mă numesc Tanase Cristian și sunt în primul an la Calculatoare, la FIESC, USV. Am ales această specializare pentru că îmi place tot ce ține de tehnologie și programare. Sunt la început, dar sunt curios să învăț cât mai multe și să mă implic în proiecte care să mă ajute să cresc profesional. Vreau să-mi construiesc o bază bună pentru viitor și să descopăr ce pot face în domeniul IT.
 [https://github.com/RICK-SANKES](https://github.com/RICK-SANKES) (pentru link-uri)
